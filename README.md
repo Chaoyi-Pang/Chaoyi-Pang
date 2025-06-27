@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm from a medschool but I like coding. 
 <!--
 **Chaoyi-Pang/Chaoyi-Pang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
